@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Monica Jinwoo Kang
 description: a project with a background image
-img: /assets/img/3.jpg
+img: monica.jpg
 importance: 2
 ---
 
